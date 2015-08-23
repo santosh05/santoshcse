@@ -162,4 +162,5 @@ public class Indore {
 		}
 
 NOTE:-
-Iam using keywordDriven Frame because it is easy to modify by manual tester no need to change in program only change in Excell sheet
+Iam using keywordDriven Framework because it is easy to modify by manual tester no need to change in Eclipseprogram only change in Excell sheet.
+and its also useful to create batchfile using testng,we create one batch file on deskop just click and program is running no need to open eclipse so this frame work is better the pageobject model framework
